@@ -1,7 +1,8 @@
 #pragma once
 
 /***************** Queue ADT Declaration *****************/
-
+#include <stdio.h>
+#include <stdlib.h>
 /// <summary>
 /// This structure represents a single node in a
 ///		singly linked list.
